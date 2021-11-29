@@ -1,0 +1,9 @@
+﻿<?xml version="1.0"?>
+<Connection>
+  <ACTIVAR PROC1="05:00"  />
+  <SQL Server="VMTIMAC" Db="Yokohama_prod" DbUser="sa" DbPwd="Expertone.1"/>
+  <DI Server="VMTIMAC" LicenseServer="VMTIMAC:30000" UserName="manager" Password="expert" DbPassword="Expertone.1" DbUserName="sa" CompanyDB="Yokohama_prod"/>
+  <SQLPT Server="VMTIMAC" Db="Yokohama_PT" DbUser="sa" DbPwd="Expertone.1"/>
+  <FTP  URL="85.93.91.81" Usuario="yokohama" Password="zj57CvuUsBvfJMwq"/>
+<FTP2  URL="files.rodi.es" Usuario="yokohama" Password="3tAwSmKS2A2t"/>
+</Connection>
